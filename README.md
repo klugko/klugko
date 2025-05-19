@@ -1,7 +1,6 @@
-# 👾 klugko
+# 👾 klugko — Full-Stack Explorer, AI Dreamweaver, Code Alchemist
 
-> The system is online. Loading brain.exe...  
-> Initialization complete. Welcome to **klugko’s** domain — where backend power meets AI dreams, and every line of code is part of a greater plan.
+> “The world belongs to those who build it. I build it one line of code at a time.” – klugko
 
 ---
 
