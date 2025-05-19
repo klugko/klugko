@@ -2,11 +2,10 @@
 
 > “The world belongs to those who build it. I build it one line of code at a time.” – klugko
 
----
 
-## 🧠 Who is klugko?
+##  Who is klugko?
 
-🌍 Digital alchemist from Madagascar 🌋
+ Digital alchemist from Madagascar !
 
 
 
@@ -22,7 +21,7 @@ Stack = [
 ]
 ```
 
-## 🛸 Let’s Collaborate
+## Let’s Collaborate 
 
 Wanna build something insane, brilliant, or revolutionary?  
 Ping me → [jeanaime.dev@gmail.com](mailto:jeanaime.dev@gmail.com)  
