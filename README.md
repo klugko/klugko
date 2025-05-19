@@ -17,7 +17,8 @@ Stack = [
   "PostgreSQL", "SQL Server", "MongoDB",
   "React", "Flutter", "TailwindCSS",
   "Docker", "CI/CD", "Git", "Agile", "Clean Architecture",
-  "Python", "C#", "TypeScript", "Java", "Go"
+  "Python", "C#", "TypeScript", "Java", "Go",
+  "NLP", "PyToch", "ML"
 ]
 ```
 
