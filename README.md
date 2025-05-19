@@ -21,6 +21,7 @@ Stack = [
   "Docker", "CI/CD", "Git", "Agile", "Clean Architecture",
   "Python", "C#", "TypeScript", "Java", "Go"
 ]
+```
 
 ## 🛸 Let’s Collaborate
 
