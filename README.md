@@ -1,29 +1,49 @@
-# 👾 klugko — Full-Stack Explorer, AI Dreamweaver, Code Alchemist
+# Jean Aimé RAHERINIAINA — Backend Developer & AI Engineer
 
-> “The world belongs to those who build it. I build it one line of code at a time.” – klugko
+> "Engineering clarity. Transforming complexity into impact, problems into solutions"
+
+I build backend systems and intelligent features that solve real problems.  
+My approach combines strong engineering principles, algorithmic reasoning, and pragmatic architecture focused on performance and scalability.
+
+Portfolio: https://jeanaime-two.vercel.app/
 
 
-##  Who is klugko?
+## Identity
 
- Digital alchemist from Madagascar !
+Technologist from Madagascar.  
+I design software that lasts, evolves, and drives value.  
+I focus on delivering modular infrastructures, optimized workflows, and strategic problem-solving.
 
 
-
-## 🧩 Tools
+## Core Toolset
 
 ```python
-Stack = [
-  "Django", "NestJS", "Express.js", ".NET Core", "Spring Boot",
-  "PostgreSQL", "SQL Server", "MongoDB",
-  "React", "Flutter", "TailwindCSS",
-  "Docker", "CI/CD", "Git", "Agile", "Clean Architecture",
-  "Python", "C#", "TypeScript", "Java", "Go",
-  "NLP", "PyToch", "ML"
-]
-```
+Stack = {
+  "Backend": ["Django REST",  "FastAPI", "NestJS", ".NET Core"],
+  "Databases": ["MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
+  "DevOps": ["Docker", "CI/CD", "Git"],
+  "Languages": ["Python", "C#", "TypeScript", "Java", "Go"],
+  "AI/ML": ["PyTorch", "Machine Learning", "Deep Learning],
+  "Architecture": ["Domain-Driven Design", "Clean Architecture", "Microservices"]
+}
+````
 
-## Let’s Collaborate 
+---
 
-Wanna build something insane, brilliant, or revolutionary?  
-Ping me → [jeanaime.dev@gmail.com](mailto:jeanaime.dev@gmail.com)  
-Or summon me on [LinkedIn](https://www.linkedin.com/in/jean-aim%C3%A9-raheriniaina-7b1543267/)
+## Focus
+
+* Build scalable and secure backend services
+* Transform data into intelligent behavior
+* Design systems for growth, reliability, and clarity
+* Solve business-critical problems with precision
+
+---
+
+## Collaborate
+
+Email: [jeanaime.dev@gmail.com](mailto:jeanaime.dev@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/jean-aim%C3%A9-raheriniaina-7b1543267/](https://www.linkedin.com/in/jean-aim%C3%A9-raheriniaina-7b1543267/)
+
+---
+
+I believe in engineering that matters: solving hard problems and converting ideas into systems that endure.
